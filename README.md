@@ -166,8 +166,6 @@ taskmeister/
 ├── requirements.txt        # Python dependencies
 ├── README.md              # This file
 ├── LICENSE                # MIT License
-├── docs/                  # Documentation
-│   └── screenshot.png     # Application screenshot
 └── tests/                 # Unit tests (future)
     └── test_taskmeister.py
 ```
@@ -284,7 +282,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Project Maintainer:** [Your Name](mailto:your.email@example.com)
+- **Project Maintainer:** [Niyazi Cholak](mailto:your.email@example.com)
 - **Issues:** [GitHub Issues](https://github.com/yourusername/taskmeister/issues)
 - **Documentation:** [Wiki](https://github.com/yourusername/taskmeister/wiki)
 
