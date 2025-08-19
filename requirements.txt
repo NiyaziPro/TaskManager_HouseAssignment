@@ -1,0 +1,15 @@
+# TaskMeister - Worker Assignment System Requirements
+
+# Core GUI and Date Picker
+tkcalendar>=1.6.1
+
+# Optional dependencies for future enhancements
+# Pillow>=8.0.0  # For future image support
+# pandas>=1.3.0  # For advanced data analysis
+# matplotlib>=3.3.0  # For future reporting charts
+
+# Development dependencies (uncomment for development)
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.8.0
+# mypy>=0.812
