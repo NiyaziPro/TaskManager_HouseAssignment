@@ -5,7 +5,9 @@
 
 A comprehensive GUI application for managing worker assignments to houses with email notifications and comprehensive tracking capabilities.
 
-![TaskMeister Screenshot](docs/screenshot.png)
+<img width="897" height="729" alt="image" src="https://github.com/user-attachments/assets/1c07bd41-a0f7-48e3-8842-abc5f670d786" />
+
+
 
 ## Features
 
