@@ -44,7 +44,6 @@ class Config:
     WORKER_LIST_WIDTH = 30
     WORKER_LIST_HEIGHT = 20
 
-
 # =========================
 # DATABASE MANAGEMENT
 # =========================
@@ -145,7 +144,6 @@ class DatabaseManager:
         finally:
             conn.close()
 
-
 # =========================
 # EMAIL SERVICE
 # =========================
@@ -195,7 +193,6 @@ class EmailService:
         body += "\n\nGood luck with your work!"
 
         return body
-
 
 # =========================
 # DIALOG WINDOWS
